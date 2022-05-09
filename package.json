@@ -1,0 +1,13 @@
+{
+  "name": "try-substrate-connect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Phonbopit/try-substrate-connect.git",
+  "author": "Chai Phonbopit <phonbopit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "8.3.2",
+    "@polkadot/rpc-provider": "8.3.2",
+    "@substrate/connect": "0.7.4"
+  }
+}
